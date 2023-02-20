@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Kwaleyela-Ikafa
 - 🌱 A Full-Stack Developer & student mentor at Microverse
 - 👀 Interested in music and everything related to tech
-- 📫 How to reach me Number: +260974036274 Email: kwaleyelamusil@gmail.com
+- 📫 Telegram: +260974036274 Email: kwaleyelamusil@gmail.com
 
 ## Front-end Development
 
