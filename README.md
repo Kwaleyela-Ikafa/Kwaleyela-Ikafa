@@ -1,7 +1,7 @@
 ## About Me
 
 - 👋 Hi, I’m Kwaleyela-Ikafa
-- 🌱 A Full-Stack Developer & student mentor at Microverse
+- 🌱 Software Engineer & student mentor at Microverse
 - 👀 Interested in music and everything related to tech
 - 📫 Telegram: +260974036274 Email: kwaleyelamusil@gmail.com
 
