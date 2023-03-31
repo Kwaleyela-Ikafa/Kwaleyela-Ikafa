@@ -23,6 +23,7 @@
 - React
 - Ruby on Rails
 - GoFiber
+- Gin
 - Svelte
 
 <!-- ![image](https://user-images.githubusercontent.com/86778388/184499522-86ab6091-9fe9-4545-8e83-030bd6edf820.png)
