@@ -8,6 +8,7 @@
 ## Languages
 
 - JavaScript
+- TypeScript
 - Ruby
 - C/C++
 - GO
