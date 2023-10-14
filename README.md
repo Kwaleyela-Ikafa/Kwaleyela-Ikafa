@@ -23,9 +23,7 @@
 
 - React
 - Ruby on Rails
-- GoFiber
-- Gin
-- Svelte
+- Spring Boot
 
 <!-- ![image](https://user-images.githubusercontent.com/86778388/184499522-86ab6091-9fe9-4545-8e83-030bd6edf820.png)
 ![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
