@@ -5,14 +5,13 @@
 - 👀 Interested in music and everything related to tech
 - 📫 Telegram: +260974036274 Email: kwaleyelamusil@gmail.com
 
-## Languages
-
+## Languages / Tools
+- Java
+- Maven
+- MySQL
 - JavaScript
-- TypeScript
 - Ruby
 - C/C++
-- Java
-- Postgresql
 
 <!-- [![Ruby](	https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 ![image](https://user-images.githubusercontent.com/86778388/184499428-191fcfa1-33fb-4b7d-8d89-24879cd7a5af.png)
