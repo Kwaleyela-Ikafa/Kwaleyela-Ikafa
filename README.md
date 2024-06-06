@@ -2,12 +2,10 @@
 
 - 👋 Hi, I’m Kwaleyela-Ikafa
 - 🌱 Software Engineer & student mentor at Microverse
-- 👀 Interested in music and everything related to tech
-- 📫 Telegram/WhatsApp: +260974036274 Email: kwaleyelamusil@gmail.com
+- 📫 Email: kwaleyelamusil@gmail.com
 
 ## Languages
 - Java
-- MySQL
 - JavaScript
 - Ruby
 - C++
@@ -18,8 +16,9 @@
 - Spring Boot
 
 ## Tools
-- Maven
 - Docker
+- Hibernate
+- Postman
 
 
 
