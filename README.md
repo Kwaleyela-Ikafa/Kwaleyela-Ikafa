@@ -17,7 +17,6 @@
 
 ## Tools
 - Docker
-- Hibernate
 - Postman
 
 
