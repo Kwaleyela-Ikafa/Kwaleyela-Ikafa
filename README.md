@@ -8,12 +8,13 @@
 - Java
 - JavaScript
 - Ruby
-- C++
+- Python
 
 ## Frameworks
 - React
 - Ruby on Rails
 - Spring Boot
+- Django
 
 ## Tools
 - Docker
